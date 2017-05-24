@@ -2,5 +2,7 @@ text_1
 New Rodin - 40p
 text_2
 New Rodin - 36p
+text_3
+Osaka-Sans Serif - 76p
 text_4
 New Rodin - 32p
